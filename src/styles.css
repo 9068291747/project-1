@@ -1,0 +1,193 @@
+/* You can add global styles to this file, and also import other style files */
+#loginmaincontainer{
+    margin: 0px auto;
+    width: 680px;
+    height: 515px;
+    float: none;
+    margin-top: 80px;
+}
+
+#formholder{
+    width: 300px;
+    height: 380px;
+    float: right;
+    margin-right: 40px;
+    margin-top: 50px;
+}
+body{
+    margin: 0px;
+    padding: 0px;
+}
+header{
+    width: 100%px;
+    height: 150px;
+    background-color: lightgreen;
+}
+#container1{
+    width: 300px;
+    height: 150px;
+    float:left;
+    margin-left: 100px;
+}
+#container2{
+    width: 700px;
+    height: 150px;
+    float:right;
+    margin-right: 100px;
+}
+#box1{
+    width: 400px;
+    height: 110px;
+    margin-left:300px;
+}
+#contact{
+    width: 200px;
+    height: 110px;
+    float: left;
+}
+
+#number{
+    width: 120px;
+    height: 50px;
+    float:right;
+    margin-top: 30px;
+    font-size: 20px;
+    margin-right:50px; 
+}
+#box2{
+    width: 347px;
+    height: 40px;
+    margin-top:0px;
+    margin-left: 370px; 
+    background-color: gold;
+
+}
+#box2 table td{
+    padding: 8px;
+    border: thistle;
+    padding-left:10px; 
+}
+#box2 table td:hover{
+    background-color: coral;
+}
+#strip{
+    width: 100%px;
+    height: 8px;
+    background-color: darkcyan;
+}
+#main{
+    width: 100%px;
+    height: 920px;
+    background-image: url("assets/images/Beijing.jpg");
+}
+#link{
+    width: 100px;
+    height: 800px;
+    float: left;
+}
+#link table{
+    background-color: mediumseagreen;
+
+}
+#link table td{
+    padding-top: 15px;
+    padding-left: 10px;
+}
+#link a{
+    text-decoration-line: none;
+    color:black;
+    font-style:bold;
+}
+#link table td:hover{
+    background-color: yellowgreen;
+}
+#view{
+    width: 1030px;
+    height: 800px;
+    float: left;
+}
+#welcome{
+    width: 800px;
+    height: 70px;
+    background-color: green;
+    margin-left:150px;
+    margin-top: 0px;
+}
+#nav{
+    width: 200px;
+    height: 800px;
+    float: left;
+}
+
+#books{
+    width: 980px;
+    height: 800px;
+
+}
+#book1{
+    width: 240px;
+    height: 300px;
+    float: left;
+}
+#book2{
+    width: 250px;
+    height: 300px;
+    float: left;
+}
+#book3{
+    width: 250px;
+    height: 300px;
+    float: left;
+}
+#book4{
+    width: 240px;
+    height: 300px;
+    float: left;
+}
+#book5{
+    width: 240px;
+    height: 300px;
+    float: left;
+}
+#book6{
+    width: 250px;
+    height: 300px;
+    float: left;
+}
+#book7{
+    width: 250px;
+    height: 300px;
+    float: left;
+}
+#book8{
+    width: 240px;
+    height: 300px;
+    float: left;
+}
+#book9{
+    width: 240px;
+    height: 300px;
+    float: left;
+}
+#book10{
+    width: 250px;
+    height: 300px;
+    float: left;
+}
+#book11{
+    width: 250px;
+    height: 300px;
+    float: left;
+}
+#book12{
+    width: 240px;
+    height: 300px;
+    float: left;
+}
+footer{
+    width: 100%px;
+    height: 200px;
+    background-color: black;
+}
+
+

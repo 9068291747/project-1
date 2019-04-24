@@ -1,0 +1,24 @@
+#login{
+    width: 400px;
+    height: 400px;
+    margin-left:500px; 
+
+
+}
+form{
+    color: black;
+    margin-left: 70px;
+    padding-top:150px; 
+}
+
+a{
+    float:left;
+    color: chocolate;
+    margin-left:70px;
+    margin-top:30px;
+    font-weight: 100;
+}
+
+button{
+    float: left;
+}

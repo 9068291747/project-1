@@ -1,0 +1,22 @@
+form{
+    color: black;
+    padding-left:200px;
+    padding-top: 150px; 
+}
+
+a{
+    float:left;
+    color:greenyellow;
+    margin-left:70px;
+    margin-top:10px;
+    font-weight: 300px;;
+}
+
+button{
+    float: left;
+}
+#registration{
+    width: 600px;
+    height: 500px;
+    margin-left: 250px;
+}
